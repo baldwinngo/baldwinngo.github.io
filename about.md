@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I'm Baldwin, and I'm currently an electrical engineering undergraduate student at University of California, Irvine. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[baldwinngo0813@gmail.com](mailto:baldwinngo0813@gmail.com)
