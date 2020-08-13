@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coat Hangers and NOAA Satellites
+date: 2020-06-23T:10:20:00Z
 ---
 
 I've been meaning to gather weather images from satellites for a while now, ever since I've watched Thought Emporium's video on it. 
