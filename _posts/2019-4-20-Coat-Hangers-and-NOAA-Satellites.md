@@ -4,6 +4,8 @@ title: Coat Hangers and NOAA Satellites
 date: 2020-06-23T:10:20:00Z
 ---
 
+Test
+
 I've been meaning to gather weather images from satellites for a while now, ever since I've watched Thought Emporium's video on it. 
 
 Last night, I built my first antenna using two coat hangers and some RG6 coax. The design is crude at best, but it worked for my purposes. I tested the antenna on FM radio stations using SDR#, and it was magnitudes better in gain than the tiny monopole antenna that came with the RTL.
