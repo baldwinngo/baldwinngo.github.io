@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Coat Hangers and NOAA Satellites
-date: 2020-06-23T:10:20:00Z
 ---
 
 Test
