@@ -11,7 +11,7 @@ My goal is to build a QRP radio that uses less than 10 watts.
 
 This will be my first DIY radio project, so it likely won't be good. There will probably be a lot of backlash for starting off in HF with a QRP radio; it'd probably be best to start off with a standard 100 watt radio. I can't disagree, but I like to take things in the most roundabout way possible.
 
-I will be taking lots of inspiration from 
+I will be taking lots of inspiration from http://ludens.cl/Electron/pqd5/PQD5.html
 
 
 
